@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on launching a new project every month
 - 🌱 I’m currently learning bash scripting
 - 👯 I’m looking to collaborate on opensource projects
-- 🤔 I’m looking for help with my opensource project Common Commands
+- 🤔 I’m looking for help with my opensource project [Common Commands](https://github.com/youngclaude/Common-Commands)
 - 💬 Ask me about working remote or futuriisutc teach i am most excited about
-- 📫 How to reach me: My open DMs on [Twitter, www.google.com]
+- 📫 How to reach me: My open DMs on [Twitter](https://twitter.com/youngclaude_)
 
 <!--
 **youngclaude/youngclaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
