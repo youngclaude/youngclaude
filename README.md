@@ -1,10 +1,9 @@
 ### Yo Whatsgood 👋
 
-- 🔭 I’m currently working on launching a new project every month
 - 🌱 I’m currently learning bash scripting
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with my opensource project [Common Commands](https://github.com/youngclaude/Common-Commands)
-- 💬 Ask me about working remote or futuriisutc teach i am most excited about
+- 💬 Ask me about working remote or futuristic teach i am most excited about
 - 📫 How to reach me: My open DMs on [Twitter](https://twitter.com/youngclaude_)
 
 <!--
