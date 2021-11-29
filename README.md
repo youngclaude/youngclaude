@@ -1,7 +1,7 @@
-### Yo Whatsgood 👋
+### Hellow and welcome! 👋
 
-- 🌱 I’m currently learning bash scripting
-- 👯 I’m looking to collaborate on opensource projects
+- 🌱 I’m currently learning blockchain software architecture
+- 👯 I’m looking to add value to high impact projects
 - 🤔 I’m looking for help with my opensource project [Common Commands](https://github.com/youngclaude/Common-Commands)
 - 💬 Ask me about working remote or futuristic teach i am most excited about
 - 📫 How to reach me: My open DMs on [Twitter](https://twitter.com/youngclaude_)
