@@ -1,10 +1,11 @@
-### Hellow and welcome! 👋
+### Hello and welcome! 👋
 
 - 🌱 I’m currently learning blockchain software architecture
 - 👯 I’m looking to add value to high impact projects
-- 🤔 I’m looking for help with my opensource project [Common Commands](https://github.com/youngclaude/Common-Commands)
+- 🤔 I’m looking for help with my open source project [Common Commands](https://github.com/youngclaude/Common-Commands)
 - 💬 Ask me about working remote or futuristic teach i am most excited about
 - 📫 How to reach me: My open DMs on [Twitter](https://twitter.com/youngclaude_)
+
 
 <!--
 **youngclaude/youngclaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
