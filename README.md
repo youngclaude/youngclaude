@@ -1,10 +1,11 @@
 ### Hello and welcome! 👋
 
-- 🌱 I’m currently learning blockchain software architecture
+- 🔭 I've worked as a devoper for last 10 years in the city of Atlanta
+- 🌱 I’m currently learning about integrating AI into businesses
 - 👯 I’m looking to add value to high impact projects
-- 🤔 I’m looking for help with my open source project [Common Commands](https://github.com/youngclaude/Common-Commands)
+- 🤔 I’m looking for for contributors for my CLI Directory project  [CommandFor](https://thecommandfor.com/categories)
 - 💬 Ask me about working remote or futuristic teach i am most excited about
-- 📫 How to reach me: My open DMs on [Twitter](https://twitter.com/youngclaude_)
+- 📫 How to reach me: My DM me on [Twitter](https://twitter.com/youngclaude_)
 
 
 <!--
