@@ -1,6 +1,6 @@
-### Hello and welcome! 👋
+## Hello and welcome! 👋
 
-- 🔭 I've worked as a devoper for last 10 years in the city of Atlanta
+- 🔭 I've worked as a Sr. Devoper for last 10 years in the city of Atlanta
 - 🌱 I’m currently learning about integrating AI into businesses
 - 👯 I’m looking to add value to high impact projects
 - 🤔 I’m looking for for contributors for my CLI Directory project  [CommandFor](https://thecommandfor.com/categories)
@@ -9,11 +9,14 @@
 
 ## Work Highlights
 - Fluke Electronics
--- Data visualization for infrared cameras
+   - Data visualization for infrared assets
+   - Mission critical
 - CoxGlobal
--- IOT Asset tracking for commercial vehicles
+   - IOT Asset tracking for commercial vehicles. [Link](https://kayogps.com/)
+   - High visability, 
 - Akash Network
--- MCP servers for AI agents to execute defi transactions on behalf of users
+   - MCP servers for AI agents to execute defi transactions on behalf of users
+   - Bleeding edge
 
 
 <!--
