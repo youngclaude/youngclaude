@@ -7,6 +7,14 @@
 - 💬 Ask me about working remote or futuristic teach i am most excited about
 - 📫 How to reach me: My DM me on [Twitter](https://twitter.com/youngclaude_)
 
+## Work Highlights
+- Fluke Electronics
+-- Data visualization for infrared cameras
+- CoxGlobal
+-- IOT Asset tracking for commercial vehicles
+- Akash Network
+-- MCP servers for AI agents to execute defi transactions on behalf of users
+
 
 <!--
 **youngclaude/youngclaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
