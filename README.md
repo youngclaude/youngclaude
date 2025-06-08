@@ -9,7 +9,7 @@
 
 ## Work Highlights
 - Fluke Electronics
-   - Data visualization for infrared assets
+   - Data visualization for infrared cameras
    - Mission critical
 - CoxGlobal
    - IOT Asset tracking for commercial vehicles. [Link](https://kayogps.com/)
